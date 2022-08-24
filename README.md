@@ -2,6 +2,6 @@
 
 Réaliser une analyse bivariée pour interpréter des données
 
-Analyser des séries temporelles
+Analys de serie temporelles
 
 Réaliser un test statistique
